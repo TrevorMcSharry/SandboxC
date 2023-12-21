@@ -20,16 +20,6 @@
 
 #include "vector.h"
 
-// Got help from Ian during office hours on 11/30
-
-
-// DO IN ORDER:
-// prompt 
-// execution
-// 3 commands
-// resource limits
-// redirection 
-
 // Struct to keep track of jobs ran using &
 struct Job {
     char *args[4096];
